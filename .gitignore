@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime-generated and private local data
+captures/*
+!captures/.gitkeep
+logs/
+vendor/
+
+# Reverse-engineering and local reference material
+research/
+third_party/
+first_camera_frame.jpg
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
